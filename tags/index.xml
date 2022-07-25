@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sridhar&#39;s Blog</title>
-    <link>http://sridharnandigam.com/blog/tags/</link>
+    <link>http://blog.sridharnandigam.com/tags/</link>
     <description>Recent content in Tags on Sridhar&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 Jul 2022 09:20:09 -0500</lastBuildDate><atom:link href="http://sridharnandigam.com/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 Jul 2022 09:20:09 -0500</lastBuildDate><atom:link href="http://blog.sridharnandigam.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>linux</title>
-      <link>http://sridharnandigam.com/blog/tags/linux/</link>
+      <link>http://blog.sridharnandigam.com/tags/linux/</link>
       <pubDate>Fri, 22 Jul 2022 09:20:09 -0500</pubDate>
       
-      <guid>http://sridharnandigam.com/blog/tags/linux/</guid>
+      <guid>http://blog.sridharnandigam.com/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rant</title>
-      <link>http://sridharnandigam.com/blog/tags/rant/</link>
+      <link>http://blog.sridharnandigam.com/tags/rant/</link>
       <pubDate>Fri, 22 Jul 2022 09:20:09 -0500</pubDate>
       
-      <guid>http://sridharnandigam.com/blog/tags/rant/</guid>
+      <guid>http://blog.sridharnandigam.com/tags/rant/</guid>
       <description></description>
     </item>
     
